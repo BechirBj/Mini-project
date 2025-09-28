@@ -189,7 +189,22 @@ Each Time you make changes on the DataBase you should use the migrate command
 
 ---
 
-✅ You now have a **NestJS project with Prisma** fully set up!
+I was not able to fully complete the entire project, here’s what I managed to implement:
+
+-  **Category API**
+  - Create new categories
+  - Some GET endpoints to fetch categories
+
+-  **Product API**
+  - Create new products
+  - Some GET endpoints to fetch products
+
+-  **Product Item API**
+  - Create new product items
+  - Basic fetching endpoints
+
+These endpoints were tested using **APIDOG** during development.
+
 
 
 ## 7. After creation the API Project we will use APIDOG to test the apis 
